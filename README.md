@@ -21,7 +21,7 @@
 ###                                                     Use the trained model to generate text based on seed text.
 
 #                                                                     Contributing
- ##                                                   Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
+ ###                                                   Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
 
 #                                                                     License
-##                                                    This project is licensed under the MIT License.
+###                                                    This project is licensed under the MIT License.
