@@ -13,7 +13,7 @@
 ###                                                     Install dependencies:
 
 ###                                               Copy code
-                   pip install tensorflow numpy
+     pip install tensorflow numpy
  ###                                                     Train the model on your data.
 
 
